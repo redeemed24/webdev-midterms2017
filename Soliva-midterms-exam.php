@@ -1,12 +1,11 @@
-<?php 
+<?php
 
-for ($i = 1; $i <= 50; $i++)
+$nums = range(3,50);
+foreach ($nums as $num)
 {
-        $j = $i * 2520;
-        echo "$j\n";
-} 
-
-
-
-
- ?>
+   if (($num % 3) == 0)
+      {
+       echo "$num\n";
+        
+   }
+}
