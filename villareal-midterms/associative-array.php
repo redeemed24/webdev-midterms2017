@@ -1,7 +1,7 @@
 <?php
 
 $count = array (
-	"United States" => "Washington D.C.",
+	"Bangladesh" => "Dhaka",
 	"Philippines" => "Manila",
 	"North Korea" => "Pyongyang",
 	"South Korea" => "Seoul",
